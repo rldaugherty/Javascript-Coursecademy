@@ -1,3 +1,1 @@
-prompt();
-("Will");
-var name = prompt();
+alert("Hey there, Ray.");
