@@ -1,4 +1,4 @@
-var firstName = prompt("What is your first name?");
-var lastName = prompt("What is your Last name?");
-
-alert("Hey there " + firstName + " " + lastName + ".");
+var myList = ["apples", "bananas", "oranges"];
+for (var i = 0; i < myList.length; i++) {
+  alert("You have " + myList[i] + " in your basket.");
+}
